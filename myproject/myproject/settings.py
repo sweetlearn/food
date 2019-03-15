@@ -26,7 +26,7 @@ SECRET_KEY = '5a2b9088-aa7a-4ae4-b81a-4b6be7de570b'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['sweetlearn.pythonanywhere.com']
 
 
 # Application definition
